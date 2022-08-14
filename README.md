@@ -7,4 +7,4 @@ Prerequisite (if any) - skills, software: Some Python programming experience and
 
 Inspirations:
 (1.) https://www.researchgate.net/publication/239063487_The_General_Pickup_and_Delivery_Problem
-(2.) https://www.researchgate.net/publication/358451525_Dynamic_Taxi_Ride-Sharing_Through_Adaptive_Request_Propagation_Using_Regional_Taxi_Demand_and_Supply
+(2.) https://ieeexplore.ieee.org/document/9390365

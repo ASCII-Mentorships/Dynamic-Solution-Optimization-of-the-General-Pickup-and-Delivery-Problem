@@ -4,4 +4,5 @@ Project idea: We will work on the basic principles of the General Pickup and Del
 
 Domain of project: Research
 Prerequisite (if any) - skills, software: Some Python programming experience and a research mindset.
-Faculty supervisor (if any)
+
+
